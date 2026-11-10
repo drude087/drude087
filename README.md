@@ -52,7 +52,7 @@ Currently expanding my knowledge in EDR evasion, LLM security, reverse engineeri
 - eLearnSecurity Junior Penetration Tester (eJPT)
 - Certified Red Team Analyst (CRTA)
 - Certified Android Penetration Testing Training
-- TryHackMe Offensive Pentesting Pathway
+- Certified Penetration Tester pathway HackTheBOx
 
 ### 💻 Featured Projects & Research
 
