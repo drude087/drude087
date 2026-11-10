@@ -57,7 +57,6 @@ Currently expanding my knowledge in EDR evasion, LLM security, reverse engineeri
 ### 💻 Featured Projects & Research
 
 - [Offensive Security Tools](https://github.com/drude087/Offensive-Security-Tools) – Security scripts and automation utilities.
-- [Network Intrusion Detection System](https://github.com/drude087/Network-Intrusion-Detection-System-NIDS-Using-Machine-Learning-and-Autoencoders) – Machine learning-based network intrusion detection.
 - [Reverse Engineering](https://github.com/drude087/REVERSE-ENGINEERING) – Reverse engineering challenges and technical analysis.
 
 ### ✍️ Technical Writing
